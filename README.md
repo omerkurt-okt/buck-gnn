@@ -77,7 +77,7 @@ This research develops a novel approach to structural analysis using Graph Neura
    - Linear analysis only (no post-buckling behavior)
    - Isotropic materials only
    - Future extensions could include:
-      -3 D structures and complex assemblies
+      - 3 D structures and complex assemblies
       - Non-linear analysis capabilities
       - Composite materials
 
