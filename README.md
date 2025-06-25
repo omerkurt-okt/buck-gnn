@@ -82,7 +82,8 @@ This research develops a novel approach to structural analysis using Graph Neura
 ## Citation
 
 If you use this work in your research, please cite:
-\n @mastersthesis{kurt2025graph,
+<br>
+@mastersthesis{kurt2025graph,
   title={Graph Neural Networks as Surrogate Models for Structural Analysis: A Study on Buckling Behavior},
   author={Kurt, {\"O}mer},
   year={2025},
