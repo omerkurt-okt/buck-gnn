@@ -65,21 +65,21 @@ This research develops a novel approach to structural analysis using Graph Neura
 
 ## Requirements
 
-   -Python 3.8+
-   -PyTorch 1.10+
-   -PyTorch Geometric
-   -NumPy, SciPy, scikit-learn
-   -MSC Nastran (for FEA validation)
+   - Python 3.8+
+   - PyTorch 1.10+
+   - PyTorch Geometric
+   - NumPy, SciPy, scikit-learn
+   - MSC Nastran (for FEA validation)
 
 ## Limitations and Future Work
 
-   -Currently limited to 2D thin-walled structures
-   -Linear analysis only (no post-buckling behavior)
-   -Isotropic materials only
-   -Future extensions could include:
-      -3D structures and complex assemblies
-      -Non-linear analysis capabilities
-      -Composite materials
+   - Currently limited to 2D thin-walled structures
+   - Linear analysis only (no post-buckling behavior)
+   - Isotropic materials only
+   - Future extensions could include:
+      -3 D structures and complex assemblies
+      - Non-linear analysis capabilities
+      - Composite materials
 
 ## Citation
 
