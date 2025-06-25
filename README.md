@@ -37,12 +37,10 @@ This research develops a novel approach to structural analysis using Graph Neura
 ### Non-Stiffened Structures
 - Validation MAPE: 5.5%
 - Test MAPE: 6.73%
-- Processing speed: ~160 structures/second (GPU)
 
 ### Stiffened Structures
 - Validation MAPE: 12.5%
 - Test MAPE: 17.64%
-- Maintains practical accuracy for preliminary design applications
 
 ## Technical Details
 
