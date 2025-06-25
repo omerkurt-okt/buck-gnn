@@ -84,10 +84,10 @@ This research develops a novel approach to structural analysis using Graph Neura
 If you use this work in your research, please cite:
 <br>
 @mastersthesis{kurt2025graph,<br>
-</br>  title={Graph Neural Networks as Surrogate Models for Structural Analysis: A Study on Buckling Behavior},<br>
-</br>  author={Kurt, {\"O}mer},<br>
-</br>  year={2025},<br>
-</br>  school={Middle East Technical University (Turkey)}<br>
+  title={Graph Neural Networks as Surrogate Models for Structural Analysis: A Study on Buckling Behavior},<br>
+  author={Kurt, {\"O}mer},<br>
+  year={2025},<br>
+  school={Middle East Technical University (Turkey)}<br>
 }
 
 The full thesis is available at: https://open.metu.edu.tr/handle/11511/113521
